@@ -1,0 +1,42 @@
+body{
+    margin: auto;
+}
+header{
+    text-align:right;
+margin: top 2px;
+    height: 45px;
+    background-color: aqua;
+}
+
+.card{
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 35px;
+    width: 10%;
+    background-color: rgb(228, 85, 161);
+    font-size: 20px;
+    text-align: center;
+    float:left;
+    margin: 5%;
+  margin-bottom: 2%;
+  overflow: hidden;
+}
+.brown{
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 35px;
+    width: 10%;
+    background-color: rgb(215, 239, 121);
+    font-size: 20px;
+    text-align: center;
+    float: left;
+    margin: 5%;
+    margin-bottom: 2%;
+    overflow: hidden;
+}
+
+footer{
+    text-align:center;
+    height: 100px;
+    background-color: rgb(188, 235, 248);
+}
